@@ -12,7 +12,8 @@ This project builds a data warehouse on **Microsoft SQL Server** to support anal
 ---
 
 ## Architecture
-https://github.com/LamaNima/sql-data-warehousing-project/blob/main/documents/data_architecture.png
+![Medallion Architecture](https://github.com/LamaNima/sql-data-warehousing-project/blob/main/assets/architecture.png)
+
 
 ### Medallion Architecture Layers
 
